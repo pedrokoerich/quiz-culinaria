@@ -11,4 +11,24 @@ export const questions: Question[] = [
         ],
         answer: 1
     },
+    {
+        question: "Qual o nome do prato que é feito com arroz e feijão?",
+        options: [
+            "Feijoada",
+            "Arroz com Feijão",
+            "Arroz de Carreteiro",
+            "Feijão Tropeiro"
+        ],
+        answer: 0
+    },
+    {
+        question: "Qual a origem do brigadeiro?",
+        options: [
+            "Brasil",
+            "Portugal",
+            "EUA",
+            "França"
+        ],
+        answer: 0
+    }
 ]
